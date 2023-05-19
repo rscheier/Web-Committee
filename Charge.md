@@ -29,3 +29,4 @@ Meeting Frequency: The Website Committee will hold monthly meetings for website 
 
 1. Review cross-platform design consistency: Assess and improve the consistency of design elements and user experience across different library platforms to create a cohesive and familiar interface.
 2. Review website content consistency: Ensure consistency throughout the website, aligning with Holy Cross Libraries' branding and objectives.
+3. 
